@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Iconos">
+        <file>Recursos/disco-flexible.png</file>
+        <file>Recursos/grafico-de-barras.png</file>
+        <file>Recursos/salida.png</file>
+    </qresource>
+</RCC>
